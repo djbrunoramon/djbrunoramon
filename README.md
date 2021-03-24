@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Bruno Ramon!
 
-<!--
-**djbrunoramon/djbrunoramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated in Information Systems, I work for more than 5 years with development.<br>
+I dedicate my free time to the study of new technologies.
+<img align="right" src="https://github.com/djbrunoramon/djbrunoramon/blob/main/goku.JPG"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+***
+ Some curiosities about me:
+ - I have worked in the musical production of several bands.Já 
+ - I have already worked teaching computer classes for young people and adults.
+ - Very passionate about technology and games.
+
+Reach me out :point_down:	<br><br>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/djbrunoramon)](https://github.com/djbrunoramon)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-ramontm/)](https://www.linkedin.com/in/bruno-ramontm/)
+
