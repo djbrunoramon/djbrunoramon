@@ -9,7 +9,7 @@ I dedicate my free time to the study of new technologies.
 
 ***
  Some curiosities about me:
- - I have worked in the musical production of several bands.Já 
+ - I already worked in the musical production of several bands.
  - I have already worked teaching computer classes for young people and adults.
  - Very passionate about technology and games.
 
