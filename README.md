@@ -12,7 +12,7 @@ I dedicate my free time to the study of new technologies.
  - I already worked in the musical production of several bands.
  - I have already worked teaching computer classes for young people and adults.
  - Very passionate about technology and games.
-
+***
 Reach me out :point_down:	<br><br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/djbrunoramon)](https://github.com/djbrunoramon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-ramontm/)](https://www.linkedin.com/in/bruno-ramontm/)
