@@ -2,7 +2,7 @@
 
 Graduated in Information Systems, I work for more than 5 years with development.<br>
 I dedicate my free time to the study of new technologies.
-<img align="right" src="https://github.com/djbrunoramon/djbrunoramon/blob/main/goku.JPG"/>
+<img align="right" src="https://github.com/djbrunoramon/djbrunoramon/blob/main/goku_tec.001.png"/>
 
 
 
